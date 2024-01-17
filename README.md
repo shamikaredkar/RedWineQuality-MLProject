@@ -1,12 +1,8 @@
+[<img src="https://labelyourdata.com/img/article-illustrations/quality_feature_importance_light.png" width="1000" height="400">](https://rishavchanda.io)
 <!DOCTYPE html>
 <html>
 
 <body>
-
-<!-- Banner -->
-<div class="section" style="text-align: center; display: block;">
-    <img src="https://media2.giphy.com/media/536KIvytx4AO4/giphy.gif?cid=ecf05e47gvg3ewl2a3wilwxynbergcrqjb4sfpbpol7aqmyf&rid=giphy.gif&ct=g" style="width:100%; display: block; margin-left: auto; margin-right: auto;">
-</div>
 
 <!-- Project Overview -->
 <div class="section">
